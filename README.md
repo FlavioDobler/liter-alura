@@ -15,4 +15,4 @@ Desafio Liter Alura do programa Oracle One, usando Hibernate e JPA.
 - ``JPA;``
 
 
-![Badge](liter-alura/Images/badge-literalura.png)
+![Badge](Images/badge-literalura.png)
